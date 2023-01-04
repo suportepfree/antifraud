@@ -31,6 +31,38 @@
             "Status": "Aguardando pagamento",
             "TotalOrder": 11840.35,
             "TransporterName": "Rodonaves"
-        }
+        },
+        {
+            "Channel": "MICHELIN",
+            "ClientName": "teste fila",
+            "CreationDate": "2022-07-26 13:29:21.537000",
+            "InstallmentValue": 797.88,
+            "Installments": 1,
+            "Item": "PNEU 265/50R20 111W SPORT SA37 GOODRIDE",
+            "Nfe": null,
+            "OrderId": 90000175,
+            "Partner": null,
+            "Payment": "Boleto",
+            "Quantity": 1,
+            "Status": "Aguardando pagamento",
+            "TotalOrder": 797.88,
+            "TransporterName": "Rodonaves"
+        },
+        {
+            "Channel": "MICHELIN",
+            "ClientName": "teste fila",
+            "CreationDate": "2022-07-26 13:26:22.833000",
+            "InstallmentValue": 797.88,
+            "Installments": 1,
+            "Item": "PNEU 265/50R20 111W SPORT SA37 GOODRIDE",
+            "Nfe": null,
+            "OrderId": 90000174,
+            "Partner": null,
+            "Payment": "Boleto",
+            "Quantity": 1,
+            "Status": "Aguardando pagamento",
+            "TotalOrder": 797.88,
+            "TransporterName": "Rodonaves"
+        },
     ]
 }
